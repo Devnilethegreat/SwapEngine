@@ -65,3 +65,5 @@ if (require.main === module) {
 }
 
 module.exports = { SwapEngine, SwapEngineCore };
+
+# revision 1 (2025-03-18): review pass
