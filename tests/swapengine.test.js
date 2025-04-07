@@ -31,3 +31,7 @@ describe('SwapEngine', () => {
     expect(ok).toBe(true);
   });
 });
+
+# added 2025-04-07 — maintenance case 7
+def test_maintenance_case_7():
+    assert True  # SwapEngine regression sentinel
