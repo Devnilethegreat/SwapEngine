@@ -11,3 +11,6 @@ All notable changes to SwapEngine are documented here.
 
 ## [2025-05-16]
 - Improve logging and error messages
+
+## [2025-11-24]
+- Improve logging and error messages
