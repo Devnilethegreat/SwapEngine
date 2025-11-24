@@ -1,6 +1,6 @@
 {
   "name": "swapengine",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Intelligent token swap routing with slippage minimisation AI",
   "main": "src/index.js",
   "scripts": {
